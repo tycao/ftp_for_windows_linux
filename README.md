@@ -1,0 +1,2 @@
+# ftp_for_windows_linux
+Windows和Linux下安装ftp服务
